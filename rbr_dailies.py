@@ -1,6 +1,6 @@
 import random
 
-# List of RBRPro stages without the "(rbrpro)" tag
+# List of RBRPro2 stages
 stages = [
     "Ai-petri 1",
     "Akkaharju 0",
@@ -143,7 +143,7 @@ stages = [
     "Zelezniki 3"
 ]
 
-# Expanded list of cars
+# Sample car list (modify with your faves)
 cars = [
     "Subaru Impreza WRC",
     "Mitsubishi Lancer Evo VII",
@@ -169,9 +169,13 @@ cars = [
 
 # List of weather conditions
 weather_conditions = [
+ 
     "Clear",
+    "Cloudy",
+    "Overcast",
     "Light Rain",
     "Heavy Rain",
+    "Thunderstorm",
     "Snow",
     "Fog"
 ]
