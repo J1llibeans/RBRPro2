@@ -12,6 +12,8 @@ This script randomly selects a stage, car, and weather condition, similar to the
 
    ```sh
    python rbr_dailies.py
+
+```sh
 $ python rbr_dailies-updated.py
 Stage: Kamen 3
 Car: Mitsubishi Lancer Evo VI
